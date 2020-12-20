@@ -4,4 +4,4 @@ date: 2020-12-21 00:22:28 -0400
 categories: minyeong-park update
 ---
 
-hi this im minyeong-park
+hi this is minyeong-park
